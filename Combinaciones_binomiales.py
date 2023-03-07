@@ -14,3 +14,6 @@ def combinaciones(n,m):
     for x in range(1, m + 1):
       denominador *= x
     return numerador // denominador 
+  
+   respuesta = numerador / denominador 
+print(f"el resultado es  {respuesta}")
