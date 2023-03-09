@@ -15,5 +15,4 @@ def combinaciones(n,m):
       denominador *= x
     return numerador // denominador 
   
-   respuesta = numerador / denominador 
-print(f"el resultado es  {respuesta}")
+   
