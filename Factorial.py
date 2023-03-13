@@ -5,6 +5,6 @@ def fcn_factorial(x):
         fac*= i
     return(fac)
 
-#Prueba uitaria : probar esta funcion , no se ejecuta este codigo en el otro archivo
+#Prueba uitaria:probar esta funcion , no se ejecuta este codigo en el otro archivo
 if __name__=="__main__":
     fcn_factorial(7)
